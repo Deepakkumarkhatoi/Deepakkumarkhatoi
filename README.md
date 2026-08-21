@@ -42,9 +42,6 @@ I'm a passionate Full-Stack Web Developer focused on building modern, responsive
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
   <b> React.js</b>&nbsp;&nbsp;&nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/>
-  <b> Next.js</b>&nbsp;&nbsp;&nbsp;
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
   <b> Bootstrap</b>
 </p>
