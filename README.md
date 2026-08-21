@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Deepak Kumar Khatoi
 
-<!--
-**Deepakkumarkhatoi/Deepakkumarkhatoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer | Full-Stack Web Developer | Exploring AI 🚀
 
-Here are some ideas to get you started:
+I am a passionate Full-Stack Web Developer focused on building modern, responsive, and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently Exploring Artificial Intelligence
+- 💻 Skilled in MongoDB, Express.js, React.js, and Node.js
+- 🚀 Interested in building AI-powered web applications
+- 📫 Open to learning, collaboration, and new opportunities
+
+## 💻 Tech Stack
+
+### Frontend
+HTML | CSS | JavaScript | React.js | Next.js | Bootstrap
+
+### Backend
+Node.js | Express.js
+
+### Database
+MongoDB | Mongoose
+
+### Currently Learning
+Artificial Intelligence | AI Integration
+
+## 🚀 Featured Projects
+
+- 🍽️ AI-Powered Nutrition Tracker
+- 🎓 Placement & Internship Management Portal
+- 🏛️ Civic Engagement Platform
+- 🤖 AI Chatbot
+- 🌤️ Weather Application
+
+## 📫 Connect With Me
+
+- GitHub: @Deepakkumarkhatoi
