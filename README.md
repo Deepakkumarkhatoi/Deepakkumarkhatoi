@@ -44,6 +44,9 @@ I'm a passionate Full-Stack Web Developer focused on building modern, responsive
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
   <b> Bootstrap</b>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/>
+  <b> Tailwind CSS</b>
 </p>
 
 ---
